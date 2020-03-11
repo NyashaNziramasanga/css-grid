@@ -22,4 +22,10 @@ grid-column: span 2 / auto;
 
 ## Usage
 
-Use VS Code extension [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to show gird kayoutes
+Use VS Code extension [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to show gird layouts
+
+## References
+
+- [The Joy of CSS Grid - Build 3 Beautifully Simple Responsive Layouts (Video)](https://www.youtube.com/watch?v=705XCEruZFs&t=3s)
+- [Mozilla CSS Grid Layout (Docs)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
